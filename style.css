@@ -258,4 +258,25 @@ vertical-align: middle;
     font-weight: bold;
     cursor: pointer;
     
+
+}
+.footer-container{
+    width: 1600px;
+    height: 348px;
+    background-color: rgb(0, 42, 68);
+margin:0 auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+.footer-container .logo{
+    text-align: auto;
+    padding-top: 0px;
+}
+
+.footer-container .social{
+    color: white;
+    padding-top: 20px;
+    text-align: right;
+
 }
